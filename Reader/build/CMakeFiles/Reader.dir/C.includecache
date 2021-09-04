@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/keithguydo/Development/systemProgramming/SharedMemory/Reader/reader.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+errno.h
+-
+

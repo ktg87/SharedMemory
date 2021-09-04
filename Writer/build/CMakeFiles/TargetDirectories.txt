@@ -1,0 +1,3 @@
+/Users/keithguydo/Development/systemProgramming/SharedMemory/Writer/build/CMakeFiles/rebuild_cache.dir
+/Users/keithguydo/Development/systemProgramming/SharedMemory/Writer/build/CMakeFiles/edit_cache.dir
+/Users/keithguydo/Development/systemProgramming/SharedMemory/Writer/build/CMakeFiles/Writer.dir
